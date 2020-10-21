@@ -6,7 +6,6 @@ class App extends Component {
     return (
       <>
         <h1>
-          {" "}
           <p data-ns-test="project-name">Business app</p>
         </h1>
         <p data-ns-test="project-description">For PujaPath</p>
