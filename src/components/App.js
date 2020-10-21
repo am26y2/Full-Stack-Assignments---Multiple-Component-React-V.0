@@ -5,8 +5,8 @@ class App extends Component {
   render() {
     return (
       <>
-        <p title="project-name"></p>
-        <p title="project-description"></p>
+        <p data-ns-test="project-name"></p>
+        <p data-ns-test="project-description"></p>
       </>
     );
   }
