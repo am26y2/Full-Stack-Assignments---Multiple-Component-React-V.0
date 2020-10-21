@@ -5,8 +5,11 @@ class App extends Component {
   render() {
     return (
       <>
-        <p data-ns-test="project-name"></p>
-        <p data-ns-test="project-description"></p>
+        <h1>
+          {" "}
+          <p data-ns-test="project-name">Business app</p>
+        </h1>
+        <p data-ns-test="project-description">For PujaPath</p>
       </>
     );
   }
